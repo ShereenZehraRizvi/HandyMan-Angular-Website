@@ -1,2 +1,8 @@
-# HandyMan-Angular-Website
-This project is a working implementation of the www.forimazdoori.com website on angular that provides you with service workers at your doorstep with just a click.
+Angular
+=======
+
+The sources for this package are in the main [Angular](https://github.com/angular/angular) repo. Please file issues and pull requests against that repo.
+
+Usage information and reference details can be found in [Angular documentation](https://angular.io/docs).
+
+License: MIT
